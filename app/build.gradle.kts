@@ -69,4 +69,7 @@ dependencies {
 
     //get permissions
     implementation ("pub.devrel:easypermissions:3.0.0")
+
+
+    implementation( "androidx.navigation:navigation-compose:2.7.6")
 }
